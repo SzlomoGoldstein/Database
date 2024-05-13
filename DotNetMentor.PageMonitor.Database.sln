@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DotNetMentor.PageMonitor.SqlDatabase", "DotNetMentor.PageMonitor.SqlDatabase\DotNetMentor.PageMonitor.SqlDatabase.sqlproj", "{B6D445D1-513B-47FA-8F09-7F4F5E70561C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6D445D1-513B-47FA-8F09-7F4F5E70561C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6D445D1-513B-47FA-8F09-7F4F5E70561C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6D445D1-513B-47FA-8F09-7F4F5E70561C}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B6D445D1-513B-47FA-8F09-7F4F5E70561C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6D445D1-513B-47FA-8F09-7F4F5E70561C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6D445D1-513B-47FA-8F09-7F4F5E70561C}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B54D1895-0EBA-492A-8AFC-E003B80B9B1A}
+	EndGlobalSection
+EndGlobal

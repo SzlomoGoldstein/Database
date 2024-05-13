@@ -1,0 +1,6 @@
+E:\Csharp\DotNetMentor\Database\DotNetMentor.PageMonitor.SqlDatabase\bin\Debug\DotNetMentor.PageMonitor.SqlDatabase.dacpac
+E:\Csharp\DotNetMentor\Database\DotNetMentor.PageMonitor.SqlDatabase\bin\Debug\DotNetMentor.PageMonitor.SqlDatabase.dll
+E:\Csharp\DotNetMentor\Database\DotNetMentor.PageMonitor.SqlDatabase\bin\Debug\DotNetMentor.PageMonitor.SqlDatabase.pdb
+E:\Csharp\DotNetMentor\Database\DotNetMentor.PageMonitor.SqlDatabase\obj\Debug\DotNetMentor.PageMonitor.SqlDatabase.sqlproj.AssemblyReference.cache
+E:\Csharp\DotNetMentor\Database\DotNetMentor.PageMonitor.SqlDatabase\obj\Debug\DotNetMentor.PageMonitor.SqlDatabase.dll
+E:\Csharp\DotNetMentor\Database\DotNetMentor.PageMonitor.SqlDatabase\obj\Debug\DotNetMentor.PageMonitor.SqlDatabase.pdb

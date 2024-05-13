@@ -1,0 +1,23 @@
+﻿** Highlights
+     Tables that will be recreated with data migrated
+       None
+     Clustered indexes that will be dropped
+       None
+     Clustered indexes that will be created
+       None
+     Possible data issues
+       None
+
+** User actions
+     Create
+       [dbo].[Accounts] (Table)
+       [dbo].[AccountUsers] (Table)
+       [dbo].[AccountUsers].[IX_AccountUsers_AccountId] (Index)
+       [dbo].[AccountUsers].[IX_AccountUsers_UserId] (Index)
+       [dbo].[FK_AccountUsers_Users] (Foreign Key)
+       [dbo].[FK_AccountUsers_Accounts] (Foreign Key)
+
+** Supporting actions
+
+The project and target databases have different collation settings. Deployment errors might occur.
+
